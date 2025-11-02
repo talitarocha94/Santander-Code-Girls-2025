@@ -140,8 +140,6 @@ Uma tabela chamada **Clientes** pode ter uma **chave primária** `CustomerID`, q
 O **backup de dados** é uma das funções mais essenciais de **proteção e continuidade de negócios** em ambientes de TI.
 Na AWS, existem diversas ferramentas e boas práticas para **garantir segurança, disponibilidade e recuperação rápida** em caso de falhas, desastres ou incidentes.
 
-Este documento apresenta **conceitos, estratégias e serviços AWS** utilizados para backup e recuperação de dados.
-
 ---
 
 ## 🧠 O que é Backup de Dados?
